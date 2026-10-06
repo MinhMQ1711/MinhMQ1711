@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Quang Minh👋
 
+**Student | Aspiring Technical Business Analyst** based in Ho Chi Minh City, Vietnam.
+
+I'm a student passionate about the space where business meets technology.
+I enjoy understanding how systems work, asking the right questions, and turning business needs into clear requirements that developers can build.
+Right now, I'm building a solid foundation in requirement analysis, process modeling, data, and APIs.
+My goal is to become a Technical BA who helps teams build the right product, the right way.
+I'm always open to learning, feedback, and new opportunities.
 <!--
 **MinhMQ1711/MinhMQ1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
